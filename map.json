@@ -266,12 +266,37 @@
  "nextlayerid":42,
  "nextobjectid":8,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"script",
-         "type":"string",
-         "value":"script.js"
-        }],
+  "properties":[
+    {
+      "name":"mapCopyright",
+      "type":"string",
+      "value":"Licence: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+    },
+    {
+      "name":"mapDescription",
+      "type":"string",
+      "value":"Suitable for up to 30 users.\n\nSpeakeasy, hidden bar, blind pig, blind tiger... You call it what you want but what is sure is that everyone dreams of having this kind of place to relax and have fun after a long day of work!"
+    },
+    {
+      "name":"mapImage",
+      "type":"string",
+      "value":"map.png"
+    },
+    {
+      "name":"mapLink",
+      "type":"string",
+      "value":"https:\/\/mapwa.net\/static\/"
+    },
+    {
+      "name":"mapName",
+      "type":"string",
+      "value":"Small space station"
+    },
+    {
+      "name":"script",
+      "type":"string",
+      "value":"script.js"
+    }],
  "renderorder":"right-down",
  "tiledversion":"1.7.0",
  "tileheight":32,
